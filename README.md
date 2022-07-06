@@ -35,7 +35,7 @@
 
 Dependencies defined in package.json:
 
-| [Bootstrap](https://getbootstrap.com/)
+| [Bootstrap](https://getbootstrap.com/) |
 
 
 ## Structure ⚓
