@@ -19,7 +19,7 @@
 [![GitHub license](https://img.shields.io/github/license/codingvivek/portfolio?style=for-the-badge)](https://github.com/codingvivek/home/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codingvivek?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/codingvivek)
 
-[![Site preview](/public/social-image.png)](https://codingvivek.github.io/home)
+[![Site preview](/image/fornt.png)](https://codingvivek.github.io/portfolio)
 
 ## Table of Contents
 
@@ -65,12 +65,12 @@ Dependencies defined in package.json:
 
 ## Sharing 💗
 
-Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) and add resume. Mark star ⭐ if you like the project.
+Project is open source. Feel free to make your own version. All you need to do is to fork this repository. Mark star ⭐ if you like the project.
 
 ## Notice:
 
-This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/codingvivek/portfolio)
+This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/codingvivek/)
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/codingvivek/home)
+[![Stargazers over time](https://starchart.cc/codingvivek/light-logo.png)](https://starchart.cc/codingvivek/portfolio)
