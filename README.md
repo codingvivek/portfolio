@@ -70,7 +70,3 @@ Project is open source. Feel free to make your own version. All you need to do i
 ## Notice:
 
 This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/codingvivek/)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/codingvivek/image/light-logo.png)](https://starchart.cc/codingvivek/portfolio)
