@@ -73,4 +73,4 @@ This project has been archived. Means that it is no longer actively maintained b
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/codingvivek/light-logo.png)](https://starchart.cc/codingvivek/portfolio)
+[![Stargazers over time](https://starchart.cc/codingvivek/image/light-logo.png)](https://starchart.cc/codingvivek/portfolio)
