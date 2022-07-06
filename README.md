@@ -36,8 +36,7 @@
 Dependencies defined in package.json:
 
 | [Bootstrap](https://getbootstrap.com/)
-| [GitHub API](https://developer.github.com/v3/repos/)
-| [Instagram API](https://www.instagram.com/developer/embedding/)
+
 
 ## Structure ⚓
 
